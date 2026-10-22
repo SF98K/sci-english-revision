@@ -1,0 +1,41 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\claims-causality.md": "5d0cc4568bd516469310147e73e837ab826fb9cc30501fab2bef52782362ff0e",
+    "references\\capabilities\\concision-terminology.md": "f607f151e689831a76d2ccef3dd7a00fd846f96018aa4c7a6a6dd9b2d74122b1",
+    "references\\capabilities\\genre-structure.md": "6952a80a7b53f890359d9a29bf6a3acc8e194f6dd79e51686f4595eb1614c761",
+    "references\\capabilities\\literature-final-check.md": "3efbeb9af676e91096c6c8600ae27d5fdc9cab6d881669795996f42b5b02b2a9",
+    "references\\capabilities\\methods-results.md": "ece702b370497ddf4283bab3cc8f8f72ce21bfc05366996d439a8a9bb90495a1",
+    "references\\capabilities\\paragraph-flow.md": "a945f229ad89d09e558a1b7efd2f336cd2719100502823d1ddfc5afa6abc8c3e",
+    "references\\capabilities\\sentence-grammar.md": "bc98ec9e8b773d225327d65928fa314c793961a5652f15a0aaed69c66ac67a34",
+    "references\\capabilities\\title-abstract.md": "5738c0355cbc64e0a8a64fb1692dbef4ab8c303d222b2645e2e9bc6acc7e53b9",
+    "references\\capability-index.md": "a916b94d7d5334584fd1b326a5791000aafb20305e8c70724b213380ffeb082b",
+    "references\\cheatsheet.md": "1a987d1bbfc4a42861d288e58f9a87f2f3c6de91ae7931cdde4f106efc0ccf9f",
+    "references\\glossary.md": "a5066bd64010237ecc8c53f39f6da9f7f110529681ec3373f42f2d482f95548a",
+    "references\\overview.md": "6c5f480d1336c076574c3d51cc5efe44f4d5742ac3e797e4f98d1fe60e86901c",
+    "resources\\revision-workflow.md": "cc58a77934d4faefc1005df3b2b1b47772b4dbf26a56c4055e5823c9d71e1226",
+    "resources\\rule-ledger.md": "0bbd9126f387b9be7744233256e2912e704613f4d380bc454dd6fa8985e3a481",
+    "resources\\supporting-examples.md": "9d4cf8060853215218037e6331428516d9b65a3a16153b0031eb6f9088e4d30c",
+    "SKILL.md": "da0fc072e33ba2bb8021332fbe9cc30425eb2aa9fd62187140b9c1630105c2a9"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.sci-english-revision",
+  "bundle_sha256": "3670684c009712324a1b808c444b02f7f9f57f12193269391d3a08f0b1021f45",
+  "variant": "single",
+  "run_id": "run-20261022-023143-7b7c16",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 8,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
