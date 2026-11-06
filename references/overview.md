@@ -4,7 +4,9 @@
 来源 G：Hilary Glasman-Deal. Science Research Writing: A Guide for Non-Native Speakers of English. Imperial College Press, 2010.
 来源 W：Adrian Wallwork. English for Academic Research: Writing Exercises. Springer, 2013.
 
-输入是用户提供的三份 (1).md。规则台账保留书、章与重建文本行号；不是PDF页码或最新版本。C 主张按体裁进行读—析—写，G 按研究论文功能学习结构和语言，W 用编辑练习改善语序、衔接、精简和限定表达。
+来源 AP：John Morley. Academic Phrasebank，2021 enhanced edition（3rd Edition），The University of Manchester；用户提供PDF，共156页。新增方法与页码见resources/phrasebank-sources.md。
+
+最初输入是用户提供的三份 (1).md，现增补该PDF。规则台账保留书、章与重建文本行号；不是PDF页码或最新版本。C 主张按体裁进行读—析—写，G 按研究论文功能学习结构和语言，W 用编辑练习改善语序、衔接、精简和限定表达。
 
 SCI 是索引体系，不是统一写作格式。具体期刊要求与专业语义优先于教材惯例。本技能面向英文研究论文及综述修改；将研究论文方法扩展到综述时，按比较和综合功能调整。
 
@@ -20,3 +22,7 @@ SCI 是索引体系，不是统一写作格式。具体期刊要求与专业语�
 6. 教材中的英语使用/ACS偏好、参考文章筛选建议不视作跨期刊禁令。语言自然程度以准确表达和真实目标文本为基准，而非作者国籍。
 
 参考例题记录见项目审计；上述边界已落实到工作流和能力卡，不要求每次编辑都向用户重复免责声明。
+
+## 新增表达功能资源
+
+Academic Phrasebank补充按修辞目的组织表达、文献归纳、方法/结果及讨论措辞、数量/比较、定义、转承和必要科学限定。原三书规则继续保留；不复制原PDF或完整句库。词表的过度简化、与用户要求不符的僵硬文风倾向按phrasebank-sources记录筛选，不作为全局替换规则。

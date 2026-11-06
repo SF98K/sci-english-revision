@@ -1,7 +1,7 @@
 ---
 name: sci-english-revision
 description: |
-  Revise English scientific manuscripts, especially chemistry and materials research articles and reviews: improve grammar, idiomatic phrasing, concision, paragraph flow, section organization, abstracts and literature synthesis while preserving scientific meaning, data, conditions, citations and evidence strength. 中文触发：润色英文论文、科技英文修改、地道学术表达、SCI英文、修改引言摘要讨论、减少冗余及过度防御。Use for editing supplied English text, not for literature search alone, experimental design, code debugging, or inventing missing results/references.
+  Revise English scientific manuscripts, especially chemistry and materials research articles and reviews: improve grammar, idiomatic phrasing, concision, paragraph flow, section organization, abstracts and literature synthesis and function-led phrasing informed by Academic Phrasebank, while preserving scientific meaning, data, conditions, citations and evidence strength. 中文触发：润色英文论文、科技英文修改、地道学术表达、SCI英文、修改引言摘要讨论、减少冗余及过度防御。Use for editing supplied English text, not for literature search alone, experimental design, code debugging, or inventing missing results/references.
 metadata:
   cangjie.generated-by: cangjie-tools v2.5.0
   cangjie.variant: single
@@ -9,7 +9,7 @@ metadata:
   cangjie.capability-count: 8
   cangjie.entrypoint-count: 1
 ---
-# 科技英文论文修改：三书方法整合 — 全书能力入口
+# 科技英文论文修改：四源方法整合 — 全书能力入口
 
 ## 触发与不触发
 
@@ -24,7 +24,7 @@ metadata:
 2. 保留科学含义、全部有效引用、数据、条件、比较口径、否定及证据强度。原文真实歧义单独处理，其他可确定部分继续修改。
 3. 按文章类型和具体语义选择时态、语态、名词化与段落组织；综述不强制采用研究论文结构。专业术语保持稳定。
 4. 清楚、自然、紧凑地写已有成果；限定与实际证据和范围相称，避免无据强化或过度防御。
-5. 具体句法、搭配和保真规则见配套 resources/rule-ledger.md；只读对应任务，按下表选择能力卡。
+5. 具体句法与保真规则见 resources/rule-ledger.md；自然表达与修辞功能选句见 resources/phrasebank-functions.md（按需读取），示例和来源见同名phrasebank-examples、phrasebank-sources资源。先确定真实表达任务再选句，不因句型新增首创性、因果或显著性。
 6. 全文修改分轮进行，每轮加载一至两卡，按章节覆盖全部必要功能，再作终审；不能只处理前段便宣称全文完成。
 7. 默认输出改后英文及必要中文说明，用户指定修订、对照或文件输出时服从；检查前后信息一致，明确尚需作者提供的信息。
 

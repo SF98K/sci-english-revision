@@ -46,6 +46,10 @@
 
 输出契约：优先给请求范围的修改后英文；仅对重要含义和结构改动给中文说明；缺失信息逐项列出。用户指定对照或修订痕迹时服从其格式。不得把未修改的范围计入完成。
 
+### Academic Phrasebank 功能补充
+
+需要改善讨论解释、必要限定、因果与共识表达时，按需读phrasebank-functions对应功能行，先确定信息槽位，再用自然句法承载已有内容。保留原主张、条件、引用与证据强度，直接观察不叠加限定。需要类比时查phrasebank-examples原创演练；源依据为John Morley，Academic Phrasebank（2021增强版），PDF 66–73、85–88、116–119、126–127，版本/页码与筛选见phrasebank-sources。不把书中可选句型、文风倾向和示例事实当作稿件要求或新证据。
+
 ## B — Boundary / 适用边界
 
 不把 may/probably 等词固定映射为概率数字；不把hedging当成每句必需。不得将未观察到写成不会发生，或将证据支持的结论自动降为可能。
@@ -59,3 +63,6 @@
 - [resources/revision-workflow.md](../../resources/revision-workflow.md)
 - [resources/rule-ledger.md](../../resources/rule-ledger.md)
 - [resources/supporting-examples.md](../../resources/supporting-examples.md)
+- [resources/phrasebank-functions.md](../../resources/phrasebank-functions.md)
+- [resources/phrasebank-examples.md](../../resources/phrasebank-examples.md)
+- [resources/phrasebank-sources.md](../../resources/phrasebank-sources.md)

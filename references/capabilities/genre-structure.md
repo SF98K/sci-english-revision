@@ -47,6 +47,10 @@
 
 输出契约：优先给请求范围的修改后英文；仅对重要含义和结构改动给中文说明；缺失信息逐项列出。用户指定对照或修订痕迹时服从其格式。不得把未修改的范围计入完成。
 
+### Academic Phrasebank 功能补充
+
+需要改善背景、具体缺口、研究目的、讨论循环、分类与致谢时，按需读phrasebank-functions对应功能行，先确定信息槽位，再用自然句法承载已有内容。保留原主张、条件、引用与证据强度，直接观察不叠加限定。需要类比时查phrasebank-examples原创演练；源依据为John Morley，Academic Phrasebank（2021增强版），PDF 8–32、66–73、100–102、133–134，版本/页码与筛选见phrasebank-sources。不把书中可选句型、文风倾向和示例事实当作稿件要求或新证据。
+
 ## B — Boundary / 适用边界
 
 不要将 IMRaD 强加给综述；不要规定引言必须四段或每段固定句数。局限与未来工作仅在研究内容及文章类型需要时出现。未给实验结果时不能替作者编写贡献。仅润色任务不自动扩大为研究设计或新文献检索。
@@ -60,3 +64,6 @@
 - [resources/revision-workflow.md](../../resources/revision-workflow.md)
 - [resources/rule-ledger.md](../../resources/rule-ledger.md)
 - [resources/supporting-examples.md](../../resources/supporting-examples.md)
+- [resources/phrasebank-functions.md](../../resources/phrasebank-functions.md)
+- [resources/phrasebank-examples.md](../../resources/phrasebank-examples.md)
+- [resources/phrasebank-sources.md](../../resources/phrasebank-sources.md)
